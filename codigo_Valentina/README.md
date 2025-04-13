@@ -11,6 +11,11 @@ Instala las dependencias necesarias con:
 ```bash
 pip install pandas matplotlib seaborn plotly
 ```
+
+## Datos utilizados
+
+- [Movie Dataset kaggle](https://www.kaggle.com/datasets/utkarshx27/movies-dataset?resource=downloadmovie)
+
 ---
 
 ### 1. `tarea1_1.py` - Gráfico de violín
