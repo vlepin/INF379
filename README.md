@@ -1,4 +1,4 @@
-# INF379 Tarea 1
+## INF379 Tarea 1: Cine
 
 **Grupo 4:**
 
@@ -6,10 +6,14 @@
 - Valentina Lepin -	201904113-4
 - Matías Godoy	-	202073082-2
 
-# Tema: Cine
+## Tarea 1: Análisis de Ingresos de Taquilla.
 
-Tarea 1: Ingresos de taquilla obtenidos por una película.
+### Distribución de los criterios:
+- Criterio 1 - Valentina: Relación entre taquilla y el género principal
+- Criterio 2 - Valentina: Comparación de ingresos en el tiempo
+- Criterio 3 - Matías: Comparación de presupuesto vs ingresos
+- Criterio 4 - Matías: Comparación de idioma original vs ingresos 
 
-# Fuentes
+## Datos utilizados
 
-- [movie_dataset.csv](https://www.kaggle.com/datasets/utkarshx27/movies-dataset?resource=downloadmovie)
+- [Movie Dataset kaggle](https://www.kaggle.com/datasets/utkarshx27/movies-dataset?resource=downloadmovie)
