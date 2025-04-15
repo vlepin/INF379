@@ -12,7 +12,9 @@
 - Criterio 1 - Valentina: Relación entre taquilla y el género principal
 - Criterio 2 - Valentina: Comparación de ingresos en el tiempo
 - Criterio 3 - Matías: Comparación de presupuesto vs ingresos
-- Criterio 4 - Matías: Comparación de idioma original vs ingresos 
+- Criterio 4 - Matías: Comparación de idioma original vs ingresos
+- Criterio 5 - Ignacio: Cantidad de películas y cantidad de ganancias por país
+- Criterio 6 - Ignacio: Productoras y cantidad de ingresos por película históricos
 
 ## Datos utilizados
 
